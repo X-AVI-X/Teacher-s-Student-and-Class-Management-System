@@ -1,4 +1,5 @@
 # Teacher-s-Student-and-Class-Management-System
+American International University Bangladesh
 Department of Computer Science
 Term Project Proposal, Summer 2019-20
 
@@ -31,6 +32,7 @@ Project Description: This project is focused on how a teacher in any institution
 	Take attendance
 
 	Input assignment’s and exam’s marks for individual students.
+
 
 
 	User_2: Admin
