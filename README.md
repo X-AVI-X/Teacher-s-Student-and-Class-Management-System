@@ -17,7 +17,7 @@ Project Title: TEACHER’S STUDENT AND CLASS MANAGEMENT SYSTEM
 
 Project Description: This project is focused on how a teacher in any institution or independent teacher can individually manage their students. By this system, a teacher can create a classroom and add or remove their students, take attendance, input quiz, class test, assignment or any exam’s marks. Admins can create teachers and send notifications to teachers for their institutions.
 
-	User_1: Teacher
+User_1: Teacher
 
 	Sign up and login
 
@@ -35,7 +35,7 @@ Project Description: This project is focused on how a teacher in any institution
 
 
 
-	User_2: Admin
+User_2: Admin
 
 	Signup and login
 
