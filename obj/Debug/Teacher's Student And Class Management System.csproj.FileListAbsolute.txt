@@ -1,0 +1,81 @@
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Teacher's Student And Class Management System.exe.config
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Teacher's Student And Class Management System.exe
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Teacher's Student And Class Management System.pdb
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.Properties.Resources.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher's Student And Class Management System.csproj.GenerateResource.cache
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher's Student And Class Management System.csproj.CoreCompileInputs.cache
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher's Student And Class Management System.exe
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher's Student And Class Management System.pdb
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\MetroFramework.Design.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\MetroFramework.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\MetroFramework.Fonts.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher's Student And Class Management System.csproj.CopyComplete
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.Licensing.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.UserControlLogin.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.UserControlRegistration.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.Login.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.OpeningWindow.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher's Student And Class Management System.csprojAssemblyReference.cache
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.Home.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.ClassroomFormat.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.CreateClassroom.resources
+D:\Study\C# Projects\Teacher's Student And Class Management System\obj\Debug\Teacher_s_Student_And_Class_Management_System.About.resources
