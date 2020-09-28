@@ -21,6 +21,7 @@ Project Description: This project is focused on how a teacher in any institution
 	Search for classes by name or ID in Classrooms section.
 	Take attendance
 	Input assignment’s and exam’s marks for individual students.
+
 	User_2: Admin
 	Signup and login
 	Create new teachers 
