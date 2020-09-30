@@ -161,17 +161,17 @@
             this.label29 = new System.Windows.Forms.Label();
             this.dgvSendNotice = new System.Windows.Forms.DataGridView();
             this.panelCreateTeacher = new System.Windows.Forms.Panel();
-            this.label31 = new System.Windows.Forms.Label();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label33 = new System.Windows.Forms.Label();
-            this.label34 = new System.Windows.Forms.Label();
-            this.txtCreateTeacherID = new System.Windows.Forms.TextBox();
-            this.txtCreateTeacherName = new System.Windows.Forms.TextBox();
-            this.txtCreatePass = new System.Windows.Forms.TextBox();
-            this.btnCreate = new System.Windows.Forms.Button();
             this.dgvUsers = new System.Windows.Forms.DataGridView();
             this.btnViewUsers = new System.Windows.Forms.Button();
+            this.btnCreate = new System.Windows.Forms.Button();
+            this.txtCreatePass = new System.Windows.Forms.TextBox();
+            this.txtCreateTeacherName = new System.Windows.Forms.TextBox();
+            this.txtCreateTeacherID = new System.Windows.Forms.TextBox();
+            this.label34 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
+            this.label32 = new System.Windows.Forms.Label();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.label31 = new System.Windows.Forms.Label();
             this.panelSidebar.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -1806,83 +1806,6 @@
             this.panelCreateTeacher.Size = new System.Drawing.Size(1202, 697);
             this.panelCreateTeacher.TabIndex = 7;
             // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.ForeColor = System.Drawing.Color.DarkOrange;
-            this.label31.Location = new System.Drawing.Point(10, 13);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(225, 32);
-            this.label31.TabIndex = 0;
-            this.label31.Text = "Create Teacher";
-            // 
-            // panel11
-            // 
-            this.panel11.BackColor = System.Drawing.Color.Orange;
-            this.panel11.Location = new System.Drawing.Point(14, 47);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(364, 5);
-            this.panel11.TabIndex = 1;
-            // 
-            // label32
-            // 
-            this.label32.AutoSize = true;
-            this.label32.Location = new System.Drawing.Point(21, 82);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(21, 17);
-            this.label32.TabIndex = 2;
-            this.label32.Text = "ID";
-            // 
-            // label33
-            // 
-            this.label33.AutoSize = true;
-            this.label33.Location = new System.Drawing.Point(21, 118);
-            this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(45, 17);
-            this.label33.TabIndex = 2;
-            this.label33.Text = "Name";
-            // 
-            // label34
-            // 
-            this.label34.AutoSize = true;
-            this.label34.Location = new System.Drawing.Point(21, 158);
-            this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(69, 17);
-            this.label34.TabIndex = 2;
-            this.label34.Text = "Password";
-            // 
-            // txtCreateTeacherID
-            // 
-            this.txtCreateTeacherID.Location = new System.Drawing.Point(148, 79);
-            this.txtCreateTeacherID.Name = "txtCreateTeacherID";
-            this.txtCreateTeacherID.Size = new System.Drawing.Size(230, 22);
-            this.txtCreateTeacherID.TabIndex = 3;
-            // 
-            // txtCreateTeacherName
-            // 
-            this.txtCreateTeacherName.Location = new System.Drawing.Point(148, 115);
-            this.txtCreateTeacherName.Name = "txtCreateTeacherName";
-            this.txtCreateTeacherName.Size = new System.Drawing.Size(230, 22);
-            this.txtCreateTeacherName.TabIndex = 3;
-            // 
-            // txtCreatePass
-            // 
-            this.txtCreatePass.Location = new System.Drawing.Point(148, 150);
-            this.txtCreatePass.Name = "txtCreatePass";
-            this.txtCreatePass.Size = new System.Drawing.Size(230, 22);
-            this.txtCreatePass.TabIndex = 3;
-            // 
-            // btnCreate
-            // 
-            this.btnCreate.Location = new System.Drawing.Point(294, 211);
-            this.btnCreate.Name = "btnCreate";
-            this.btnCreate.Size = new System.Drawing.Size(84, 30);
-            this.btnCreate.TabIndex = 4;
-            this.btnCreate.Text = "Create";
-            this.btnCreate.UseVisualStyleBackColor = true;
-            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
-            // 
             // dgvUsers
             // 
             this.dgvUsers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -1903,16 +1826,93 @@
             this.btnViewUsers.UseVisualStyleBackColor = true;
             this.btnViewUsers.Click += new System.EventHandler(this.btnViewUsers_Click);
             // 
+            // btnCreate
+            // 
+            this.btnCreate.Location = new System.Drawing.Point(294, 211);
+            this.btnCreate.Name = "btnCreate";
+            this.btnCreate.Size = new System.Drawing.Size(84, 30);
+            this.btnCreate.TabIndex = 4;
+            this.btnCreate.Text = "Create";
+            this.btnCreate.UseVisualStyleBackColor = true;
+            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
+            // 
+            // txtCreatePass
+            // 
+            this.txtCreatePass.Location = new System.Drawing.Point(148, 150);
+            this.txtCreatePass.Name = "txtCreatePass";
+            this.txtCreatePass.Size = new System.Drawing.Size(230, 22);
+            this.txtCreatePass.TabIndex = 3;
+            // 
+            // txtCreateTeacherName
+            // 
+            this.txtCreateTeacherName.Location = new System.Drawing.Point(148, 115);
+            this.txtCreateTeacherName.Name = "txtCreateTeacherName";
+            this.txtCreateTeacherName.Size = new System.Drawing.Size(230, 22);
+            this.txtCreateTeacherName.TabIndex = 3;
+            // 
+            // txtCreateTeacherID
+            // 
+            this.txtCreateTeacherID.Location = new System.Drawing.Point(148, 79);
+            this.txtCreateTeacherID.Name = "txtCreateTeacherID";
+            this.txtCreateTeacherID.Size = new System.Drawing.Size(230, 22);
+            this.txtCreateTeacherID.TabIndex = 3;
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Location = new System.Drawing.Point(21, 158);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(69, 17);
+            this.label34.TabIndex = 2;
+            this.label34.Text = "Password";
+            // 
+            // label33
+            // 
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(21, 118);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(45, 17);
+            this.label33.TabIndex = 2;
+            this.label33.Text = "Name";
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Location = new System.Drawing.Point(21, 82);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(21, 17);
+            this.label32.TabIndex = 2;
+            this.label32.Text = "ID";
+            // 
+            // panel11
+            // 
+            this.panel11.BackColor = System.Drawing.Color.Orange;
+            this.panel11.Location = new System.Drawing.Point(14, 47);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(364, 5);
+            this.panel11.TabIndex = 1;
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.ForeColor = System.Drawing.Color.DarkOrange;
+            this.label31.Location = new System.Drawing.Point(10, 13);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(225, 32);
+            this.label31.TabIndex = 0;
+            this.label31.Text = "Create Teacher";
+            // 
             // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1527, 750);
+            this.Controls.Add(this.panelStu);
             this.Controls.Add(this.panelSendNotice);
             this.Controls.Add(this.panelCreateTeacher);
             this.Controls.Add(this.panelNotifications);
             this.Controls.Add(this.panelHome);
-            this.Controls.Add(this.panelStu);
             this.Controls.Add(this.pnlUpperDocked);
             this.Controls.Add(this.panelSidebar);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);

@@ -334,7 +334,7 @@ namespace Teacher_s_Student_And_Class_Management_System
         }
         private void btnSearchStudents_Click(object sender, EventArgs e)
         {
-            DataAccess.Ds = DataAccess.ExecuteQuery("SELECT * FROM "+Id+"students WHERE StudentID = '"+txtSearchStu.Text+"'OR Name = '"+txtStuName.Text+"';");
+            DataAccess.Ds = DataAccess.ExecuteQuery("SELECT * FROM "+Id+"students WHERE StudentID = '"+txtSearchStu.Text+"'OR Name = '"+txtSearchStu.Text+"';");
             dgvStu.DataSource = DataAccess.Ds.Tables[0];
         }
 
